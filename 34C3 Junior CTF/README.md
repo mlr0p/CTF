@@ -5,7 +5,7 @@ Here are the writeups for the challenges that I solved at 34C3 Junior CTF in 201
 
 Finished 101 in 435 teams, need to learn more.
 
-SOme skills that I need to brush up on.
+Some skills that I need to brush up on.
 
 1. Learn C
 2. Go through cryptography methods. I was stuck on the AES encryption using known IV (Ecoin challenge) and AES CBC mode
