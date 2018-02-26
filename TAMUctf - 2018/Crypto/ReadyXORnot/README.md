@@ -14,7 +14,7 @@ The flag is not in the traditional gigem{flag} format.
 
 Solutions
 ------------------
-The flag is encrpted with xor, so a simple script that base64 decodes the flag and xor with the key should do the trick.
+The flag is encrpted with xor, so a simple script that base64 decodes the encrypted flag and xor with the key should do the trick.
 
 ```python
 import base64
