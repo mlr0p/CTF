@@ -21,7 +21,7 @@ This challenges feels like the sort of hackthebox machines and I really enjoyed 
 
 It looks like we got some creds and a python server is running
 
-![screenshot](screenshot1.png)
+![screenshot](screenshot2.png)
 
 We found the server on localhost listening on port 9000
 
