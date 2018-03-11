@@ -29,7 +29,7 @@ Time to do some research how to ssh to another port, it turns out we could use p
 
 `ssh -L 80:localhost:9000 tamuctf@shell2.ctf.tamu.edu -p 2222`
 
-![screenshot](screenshot3.png)
+![screenshot](screensho3.png)
 
 ![screenshot](screenshot4.png)
 
