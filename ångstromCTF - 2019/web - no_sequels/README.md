@@ -48,14 +48,14 @@ In a NoSQL injection, we can abuse the operators such as $gt or $ne and perform 
 
 Note: We have to change the Content-Type header to application/json to evaluate JSON data.
 
-![alt text][req.png]
+![screenshot1](req.png)
 
 However, I was not able to login because of the JWT token issues. I have tried performing some JWT token attacks using jwt2john.py (https://github.com/Sjord/jwtcrack/blob/master/jwt2john.py)
 to crack the token secret, as well as replacing the HS256 algorithm as None however none were successful.
 
 Fortunately, I could still perform a blind injection attack
 
-![alt text][req2.png]
+![screenshot2](req2.png)
 
 Burp > Copy as Requests and add a loop
 
